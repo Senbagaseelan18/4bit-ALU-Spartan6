@@ -1,0 +1,19 @@
+# Slide Switches
+NET "sw<0>" LOC = P22;
+NET "sw<1>" LOC = P21;
+NET "sw<2>" LOC = P17;
+NET "sw<3>" LOC = P16;
+NET "sw<4>" LOC = P15;
+NET "sw<5>" LOC = P14;
+NET "sw<6>" LOC = P12;
+NET "sw<7>" LOC = P11;
+NET "sw<8>" LOC = P10;
+NET "sw<9>" LOC = P9;
+NET "sw<10>" LOC = P8;
+
+# LEDs (Using 5 MSB LEDs)
+NET "led<0>" LOC = P138;
+NET "led<1>" LOC = P143;
+NET "led<2>" LOC = P142;
+NET "led<3>" LOC = P137;
+NET "led<4>" LOC = P141;
