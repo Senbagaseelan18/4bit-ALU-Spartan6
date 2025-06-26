@@ -39,20 +39,20 @@ This project implements a 4-bit ALU on a Xilinx Spartan-6 board. It supports ope
 ## 🖥️ Simulation Preview
 
 
-| Waveform 1               | Waveform 2               | Code View              |
-|--------------------------|--------------------------|------------------------|
-| ![](vivado_simulation/waveform.png) | ![](vivado_simulation/waveform2.png) | ![](vivado_simulation/vivado_code.png) |
+![Vivado Simulation](vivado_simulation/waveform.png)
+![Vivado Simulation](vivado_simulation/waveform2.png)
+![Vivado Simulation](vivado_simulation/vivado_code.png)
 
 
 ---
 
 ## 🔌 Hardware Testing
 
-| Description     | Visual                       |
-|-----------------|------------------------------|
-| Spartan-6 Board | ![](hardware_testing/board.png) |
-| Output on LEDs  | ![](hardware_testing/board_output.png) |
-| Demo Video      | 🎥 [Watch Demo](hardware_testing/demo.mp4) |
+| View       | Image                          |
+|------------|---------------------------------|
+| Board Front | ![](hardware_testing/board.jpg) |
+| Output   | ![](hardware_testing/board_output.jpg) |
+| Demo Video  | ![](hardware_testing/demo.mp4)|
 
 ---
 
